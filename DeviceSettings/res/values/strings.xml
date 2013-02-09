@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Galaxy S II Settings</string>
+    <string name="app_name">Mackay Settings</string>
 
     <string name="category_screen_title">Screen</string>
     <string name="screen_colors_title">Colors</string>
@@ -47,4 +47,14 @@
     <string name="dockaudio_subcat_title">Audio</string>
     <string name="use_dock_audio_title_head">Use Dock USB Audio</string>
     <string name="use_dock_audio_summary_head">Use the passive audio out on the dock</string>
+
+    <string name="mackay_settings_title">Mackay kernel settings</string>
+    <string name="mackay_settings_summary">Below, you can change the settings for the Mackay kernel. Use at your own risk\n\nIf you run another kernel, these settings may be nonfunctional or cause force closes.</string>
+
+    <string name="category_performance_title">Performance</string>
+    <string name="processor_settings_title">CPU setting</string>
+    <string name="processor_settings_summary">Change governor and min/max frequencies</string>
+    <string name="scheduler_settings_title">Scheduler</string>
+    <string name="scheduler_settings_summary">Chage in/output scheduler</string>
+
 </resources>

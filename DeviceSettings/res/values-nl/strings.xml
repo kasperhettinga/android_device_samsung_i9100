@@ -15,7 +15,7 @@
  -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Galaxy S II-instellingen</string>
+    <string name="app_name">Mackay-instellingen</string>
 
     <string name="screen_colors_title">Kleuren</string>
     <string name="category_screen_title">Scherm</string>
@@ -62,4 +62,14 @@
     <string name="dockaudio_subcat_title">Geluid</string>
     <string name="use_dock_audio_title_head">USB-geluidsdock</string>
     <string name="use_dock_audio_summary_head">Passieve geluidsuitgang van het dock gebruiken</string>
+
+    <string name="mackay_settings_title">Mackay kernel instellingen</string>
+    <string name="mackay_settings_summary">Hieronder kun je de instellingen van de Mackay kernel aanpassen. Gebruik op eigen risico\n\nAls je een andere kernel gebruikt zijn deze instellingen mogelijk niet functioneel of zorgen ze voor geforceerd afsluiten.</string>
+
+    <string name="category_performance_title">Prestaties</string>
+    <string name="processor_settings_title">Processor</string>
+    <string name="processor_settings_summary">Wijzig governor en min/max frequentie</string>
+    <string name="scheduler_settings_title">Scheduler</string>
+    <string name="scheduler_settings_summary">Wijzig in/output scheduler</string>
+
 </resources>
